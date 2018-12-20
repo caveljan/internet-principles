@@ -23,8 +23,10 @@ an Internet-enabled application.
 + [The Internet Principles](#the-internet-principles)
     + [the 1st Internet Principle](#the-1st-internet-principle)
     + [the 2nd Internet Principle](#the-2nd-internet-principle)
+    + [the 3rd Internet Principle](#the-3rd-internet-principle)
 + [Grounding of the 1st Internet Principle](#grounding-of-the-1st-internet-principle)
 + [Grounding of the 2nd Internet Principle](#grounding-of-the-2nd-internet-principle)
++ [Grounding of the 3rd Internet Principle](#grounding-of-the-3rd-internet-principle)
 + [The Regulatory Principle](#the-regulatory-principle)
 + [Grounding of the Regulatory Principle](#grounding-of-the-regulatory-principle)
 + [Critique of Regulatory Systems](#critique-of-regulatory-systems)
@@ -66,6 +68,15 @@ There should be no Regulatory, Administration Agency or Organization of and for 
 There ought to be a Regulatory Principle to the Internet.
 
 
+### the 3rd Internet Principle
+
+There should be no pain or cost to have security of
+
++ identity,
++ data,
++ transactions.
+
+
 
 
 ## Grounding of the 1st Internet Principle
@@ -78,6 +89,17 @@ If we are to think of the project of the `Internet` as the manner in which we ex
 ## Grounding of the 2nd Internet Principle
 
 If the 1st Internet Principle might appear to argue in favor of no regulation, it must be reminded that there are no paradises of absolute no regulation. And again as both history and literature have shown, deregulation can do the same if not more damage than pure regulation.
+
+
+
+
+## Grounding of the 3rd Internet Principle
+
+The sole reason technology exists is to have zero-cost, pain-free, always present&active security.
+
+Free actions always suspend the ethical. Be that the free action is to have a social account which will be data-mined, or is the free action of generosity which generates an open-source tool used by anyone that wants to use it. (e.g., Let's Encrypt)
+
+And there are operational costs, for now. But operational costs are no cost, for any current requirement (energy-wise, intellectual-wise) can be in the future envisaged as being surpassed (solar energy, machine automation).
 
 
 
