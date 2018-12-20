@@ -51,6 +51,9 @@ If we are to use the Internet in a form of togetherness, for else we would not h
 
 As example to what `dignity law` would clarify: to read someone else's mails is an offence, first of all, to the dignity of that person.
 
+
+#### Aside
+
 The word `Internet` from `Internet Principles` should be discoursed in such a manner as to become interchangeable, if not even conflated, with the word `Intelligence`, and therefore to have the `Intelligence Principles`, because what is the `Internet` if not our `Collective-Externalized Intelligence`?
 
 
