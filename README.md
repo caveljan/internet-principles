@@ -49,6 +49,9 @@ The `Internet Principles` stand under a ramification of `natural law` (`ius natu
 
 If we are to use the Internet in a form of togetherness, for else we would not have the Internet, then what must stand at the root of our interactions, with others, with the network itself, and, not least of all, with ourselves, must be dignity.
 
+
+#### Example
+
 As example to what `dignity law` would clarify: to read someone else's mails is an offence, first of all, to the dignity of that person.
 
 
