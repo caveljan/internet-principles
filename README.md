@@ -47,7 +47,7 @@ How do we stand in the gaze of future others? Do we appear as mere barbarians or
 
 The `Internet Principles` stand under a ramification of `natural law` (`ius naturale`, `lex naturalis`, `dikaion physikon`, `δικαιον φυσικον`) which might be called `dignity law` (`ius dignitate`, `lex dignitatis`, `dikaion axioma`, `δικαιον αξίωμα`).
 
-If we are to use the Internet in a form of togetherness, for else we would not have the Internet, then what must stand at the root of our interactions, with others, with the network itself, and, not least of all, with ourselves, must be dignity.
+If we are to use the Internet in a form of togetherness, for else we would not have the Internet, then what must stand at the root of our interactions, with others, with the network itself, and, not least of all, with ourselves, must be `dignity`.
 
 
 #### Example
@@ -120,6 +120,8 @@ There should be no data outside the reach of the entity that generated it.
 ## Grounding of the Regulatory Principle
 
 The Regulatory Principle implies that the user should be able to view the data he/she generated in the same manner that the database administrator can see it, if not even better (the database entries should be encrypted with the public key of the user even in the database so that the database admin or anyone else does not have direct access to user data). The user should have always at his/her disposal a tree view of everything related to him/her.
+
+Further more, we can dream at a future where the user will be asked to define his/her own personal schema for the database and the third-party systems between users will only be suitable for temporary caching, molding the services by the data of the user-defined schema.
 
 Change Password/Delete Account/Cancel Billing and other account operations should be not only transparent, easy to use, intuitive, but should be under a common `API`, e.g. `/.well-known/`, on a standalone service, for access regardless of the state of the application.
 
