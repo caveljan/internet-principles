@@ -52,7 +52,7 @@ If we are to use the Internet in a form of togetherness, for else we would not h
 
 #### Example
 
-As example to what `dignity law` would clarify: to read someone else's mails is an offence, first of all, to the dignity of that person.
+As example to what `dignity law` would clarify: to read someone else's private conversations is an offence, first of all, to the dignity of that person.
 
 
 #### Aside
