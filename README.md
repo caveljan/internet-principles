@@ -80,8 +80,13 @@ There should be no pain or cost to have security of
 
 + identity,
 + data,
-+ transactions.
++ transactions,
 
+or as question-marks
+
++ who,
++ what,
++ how.
 
 
 
